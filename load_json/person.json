@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Cena",
+        "age": "40",
+        "height": "180",
+        "gender": "male"
+    },
+    {
+        "name": "Jwon Xina",
+        "age": "41",
+        "height": "170",
+        "gender": "male"
+    },
+    {
+        "name": "Karen",
+        "age": "50",
+        "height": "150",
+        "gender": "female"
+    },
+    {
+        "name": "Trish",
+        "age": "41",
+        "height": "155",
+        "gender": "female"
+    }
+]
